@@ -49,7 +49,7 @@ The changing GUI based on detected emotions opens up numerous applications:
 
 3. **Download Haar Cascade XML:**
 
-    Ensure that `haarcascade_frontalface_default.xml` is located in the same directory as your script. You can download it from the [OpenCV GitHub repository](https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_frontalface_default.xml). _(also provided in the repository)_
+    Ensure that `haarcascade_frontalface_default.xml` is located in the same directory as your script. You can download it from the [OpenCV GitHub repository](https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_frontalface_default.xml). _(also provided in this repository)_
 
 ## Usage
 
