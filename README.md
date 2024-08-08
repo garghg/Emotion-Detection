@@ -16,7 +16,7 @@ The changing GUI based on detected emotions opens up numerous applications:
 
 ## Flowchart
 <p align="right">
-  <img width="731" height="1521" src=https://github.com/user-attachments/assets/6c227fa0-2241-4446-9e57-0cc0e4efcaaa>
+  <img width="900" height="1521" src=https://github.com/user-attachments/assets/6c227fa0-2241-4446-9e57-0cc0e4efcaaa>
 </p>
 
 
