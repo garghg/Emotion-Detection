@@ -1,5 +1,3 @@
-#Reference: https://github.com/manish-9245/Facial-Emotion-Recognition-using-OpenCV-and-Deepface/blob/main/emotion.py
-
 from deepface import DeepFace
 import cv2
 
