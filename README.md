@@ -39,7 +39,7 @@ The changing GUI based on detected emotions opens up numerous applications:
 
 ## Installation
 
-1. **Clone the repository:**
+1. **Clone the repository**
 
 2. **Install the required Python packages:**
 
@@ -53,7 +53,7 @@ The changing GUI based on detected emotions opens up numerous applications:
 
 ## Usage
 
-1. **Run the application:**
+1. **Run the application**
 
 2. **Interact with the application:**
 
