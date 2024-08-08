@@ -4,7 +4,7 @@ from PyQt5.QtWidgets import QApplication, QMainWindow, QLabel, QVBoxLayout, QHBo
 from PyQt5.QtGui import QImage, QPixmap, QPainter, QFont
 from PyQt5.QtCore import QTimer, Qt
 from emotions import emotion_detector
-import webbrowser  # For opening web pages
+import webbrowser
 
 class EmotionRecognitionApp(QMainWindow):
     def __init__(self):
@@ -18,7 +18,7 @@ class EmotionRecognitionApp(QMainWindow):
 
         # Set up the GUI
         self.setWindowTitle("Emotion Recognition")
-        self.setGeometry(100, 100, 1200, 600)  # Adjusted window size to accommodate buttons
+        self.setGeometry(100, 100, 1200, 600)
 
         # Layouts
         self.image_label = QLabel()
@@ -28,7 +28,7 @@ class EmotionRecognitionApp(QMainWindow):
         # Set default message
         self.message_label.setText("No emotion detected")
         self.message_label.setFont(QFont('Times New Roman', 20))
-        self.message_label.setWordWrap(True)  # Allows the text to wrap within the label's width
+        self.message_label.setWordWrap(True)
 
         # Set default emotion text
         self.emotion_label.setFont(QFont('Arial', 24))
