@@ -14,8 +14,11 @@ The changing GUI based on detected emotions opens up numerous applications:
 - **Therapeutic Applications:** Supports mental health professionals by integrating with therapeutic tools that respond to clients' emotions, facilitating better support and interaction.
 - **Customer Service:** Enhances customer service experiences by adapting the interface based on customer emotions, leading to more empathetic and effective support.
 
-## Flowchart Explanation
-![emotion_detection_flowchart](https://github.com/user-attachments/assets/6c227fa0-2241-4446-9e57-0cc0e4efcaaa)
+## Flowchart
+<p align="right">
+  <img width="731" height="1521" src=https://github.com/user-attachments/assets/6c227fa0-2241-4446-9e57-0cc0e4efcaaa>
+</p>
+
 
 
 ## Features
