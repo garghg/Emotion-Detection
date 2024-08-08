@@ -14,6 +14,10 @@ The changing GUI based on detected emotions opens up numerous applications:
 - **Therapeutic Applications:** Supports mental health professionals by integrating with therapeutic tools that respond to clients' emotions, facilitating better support and interaction.
 - **Customer Service:** Enhances customer service experiences by adapting the interface based on customer emotions, leading to more empathetic and effective support.
 
+## Flowchart Explanation
+![emotion_detection_flowchart](https://github.com/user-attachments/assets/6c227fa0-2241-4446-9e57-0cc0e4efcaaa)
+
+
 ## Features
 
 - Real-time face detection and emotion recognition.
@@ -67,4 +71,4 @@ The changing GUI based on detected emotions opens up numerous applications:
 - **Relaxation Exercise:** Opens a web browser to a predefined URL for a relaxation video.
 
 ## Reference: 
-1. Emotion Detection logic based on [manish-9245's application](https://github.com/manish-9245/Facial-Emotion-Recognition-using-OpenCV-and-Deepface/blob/main/emotion.py)
+1. Emotion Detection logic based on [manish-9245's application](https://github.com/manish-9245/Facial-Emotion-Recognition-using-OpenCV-and-Deepface/blob/main/emotion.py).
