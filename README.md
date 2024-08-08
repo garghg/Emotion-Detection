@@ -55,10 +55,6 @@ The changing GUI based on detected emotions opens up numerous applications:
 
 1. **Run the application:**
 
-    ```bash
-    python <your-script-name>.py
-    ```
-
 2. **Interact with the application:**
 
     - The application will start displaying video from your webcam.
